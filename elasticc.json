@@ -11,14 +11,14 @@
         "unityGameID": "3883855",
 		"unityBanner": "banner",
 		"unityInter": "video",
-        "max_banner": "6db1491f2e21970c",
-        "max_inter": "812b82d9e0c7cb7f",
+        "max_banner": "",
+        "max_inter": "",
         "CPAImg": "https://i.ibb.co/TbzgMN0/Untitled-480-75-px.gif",
         "CPAUrl": "https://www.google.com",
         "intersitial_click_activites": 1,
         "intersitial_click_list": 3,
 		"more_app": "",
-		"privacy": "https://sites.google.com/view/we-become-what-we-behold-funs/home",
+		"privacy": "https://sites.google.com/view/elastic-man/home",
 		"rate_us": "https://google.com"
     }
 }
