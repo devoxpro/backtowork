@@ -7,7 +7,7 @@
         "admob_inter": "ca-app-pub-2440723889019008/7220229178",
         "facebook_banner": "",
         "facebook_inter": "",
-		"unityTest": true,
+		"unityTest": false,
         "unityGameID": "4953215",
 		"unityBanner": "banner",
 		"unityInter": "Interstitial_Android",
