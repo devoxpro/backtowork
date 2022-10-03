@@ -1,8 +1,8 @@
 {
     "Ads": {
         "show_ads": true,
-        "bannerAd": "unity",
-        "InterAd": "unity",
+        "bannerAd": "admob",
+        "InterAd": "admob",
         "admob_banner": "ca-app-pub-2440723889019008/7220229166",
         "admob_inter": "ca-app-pub-2440723889019008/7220229178",
         "facebook_banner": "",
